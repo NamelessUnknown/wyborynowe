@@ -1,0 +1,57 @@
+[
+    {
+        "numerNaLiscie" : "1",
+        "okregNr" : "3",
+        "miejscowosci" : "Gmina Ostróda",
+        "imie" : "Anna",
+        "nazwisko" : "Sawko",
+        "opis" : "Mężatka, jedno dziecko, zootechnik, absolwenta UWM w Olsztynie. Kierownik Warmińsko-Mazurskiego Ośrodka Doradztwa Rolniczego w Ostródzie zna doskonale problemy mieszkańców gminy, zwłaszcza rolników. Lubi dobrą muzykę i sport.",
+        "photoURL":"./assets/powiat/gminaostroda3/Anna_Sawko.JPG"
+    },
+    {
+        "numerNaLiscie" : "2",
+        "okregNr" : "3",
+        "miejscowosci" : "Gmina Ostróda",
+        "imie" : "Michał",
+        "nazwisko" : "Brzostowski",
+        "opis" : "Żonaty, od 9 lat szczęśliwy ojciec córki Mai. Od urodzenia mieszka w Szyldaku. Pasjonat motocykli i samochodów. Doradca w firmie samochodowej. Prowadzi własną działalność gospodarczą. Lubi jazdę konną i koty.",
+        "photoURL":"./assets/powiat/gminaostroda3/Michał_Brzostowski.JPG"
+    },
+    {
+        "numerNaLiscie" : "3",
+        "okregNr" : "3",
+        "miejscowosci" : "Gmina Ostróda",
+        "imie" : "Joanna",
+        "nazwisko" : "Kucaba",
+        "opis" : "Mężatka, jedno dziecko, magister pielęgniarstwa, od 26 lat w zawodzie. Mieszkanka urokliwej wsi Samborowo. Niepoprawna optymistka, otwarta na ludzi, miłośniczka zwierząt i wiejskiego życia. Dewiza życiowa: traktować innych tak jak by chciała, aby ktoś traktował ją.",
+        "photoURL":"./assets/powiat/gminaostroda3/Joanna_Kucuba.JPG"
+    },
+    {
+        "numerNaLiscie" : "4",
+        "okregNr" : "3",
+        "miejscowosci" : "Gmina Ostróda",
+        "imie" : "Dawid",
+        "nazwisko" : "Banasiuk",
+        "opis" : "Kawaler, z wykształcenia informatyk, aktualnie student UWM na kierunku zarządzanie systemami informatycznymi, kierownik działu technicznego w Zakładzie Przetwórstwa Mięsnego „Łukosz”. Lubi sport, zwłaszcza piłkę nożną, miłośnik starych motocykli.",
+        "photoURL":"./assets/powiat/gminaostroda3/Dawid_Banasiuk.JPG"
+    },
+    {
+        "numerNaLiscie" : "5",
+        "okregNr" : "3",
+        "miejscowosci" : "Gmina Ostróda",
+        "imie" : "Albert",
+        "nazwisko" : "Filipowicz",
+        "opis" : "Kawaler. Lubi sport, maratończyk, lubi ludzi i chce dla nich pracować, honorowy krwiodawca, oddał 18 litrów krwi, odznaczony Złotą Odznaką PCK. Dotychczas przebiegł 4 maratony i wiele półmaratonów. Biegi nauczyły go wytrwałości i cierpliwości także w życiu codziennym.",
+        "photoURL":"./assets/powiat/gminaostroda3/Albert_Filipowicz.JPG"
+    },
+    {
+        "numerNaLiscie" : "6",
+        "okregNr" : "3",
+        "miejscowosci" : "Gmina Ostróda",
+        "imie" : "Aleksandra",
+        "nazwisko" : "Brodiuk",
+        "opis" : "25-letnia ostródzianka, absolwentka Wydziału Ekonomicznego Uniwersytetu Gdańskiego. Od 7 lat działa jako wolontariusz na rzecz młodego pokolenia w wielu organizacjach pozarządowych, m.in. w AIESEC czy Studenckie Forum Business Center Club. Chce przyczynić się do stworzenia warunków dla młodych ludzi emigrujących do większych ośrodków aglomeracyjnych w poszukiwaniu edukacji czy pracy, ale jednocześnie do ich powrotu i zainwestowania swych umiejętności w Ziemi Rodzinnej.",
+        "photoURL":"./assets/powiat/gminaostroda3/Aleksandra_Brodiuk.JPG"
+    }
+    
+]

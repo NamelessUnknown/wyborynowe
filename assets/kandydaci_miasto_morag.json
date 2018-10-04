@@ -1,0 +1,66 @@
+[
+    {
+        "numerNaLiscie" : "1",
+        "okregNr" : "2",
+        "miejscowosci" : "Miasto i Gmina Morąg",
+        "imie" : "Andrzej",
+        "nazwisko" : "Kikoła",
+        "opis" : "Żonaty, dwójka dzieci, wykształcenie wyższe. Właściciel firmy „ANDAREX”, w latach 2002 – 2013 zastępca burmistrza Morąga. Piękno Morąga i zadowolenie mieszkańców to jego cel społecznego działania. Hobby: aranżacje ogrodów i piłka siatkowa.",
+        "photoURL":"./assets/powiat/miastoigminamorag2/Andrzej_Kikola.JPG"
+    },
+    {
+        "numerNaLiscie" : "2",
+        "okregNr" : "2",
+        "miejscowosci" : "Miasto i Gmina Morąg",
+        "imie" : "Bogdan",
+        "nazwisko" : "Głowacz",
+        "opis" : "Żonaty, dwójka dzieci, wykształcenie ekonomiczne. Rolnik. Od 20 lat samorządowiec, członek Zarządu Powiatu Ostródzkiego IV kadencji. Przyjaźnie  traktuje wszystkich ludzi. Za bardzo ważne uznaje współpracę i kompromis w rozwiązywaniu problemów.",
+        "photoURL":"./assets/powiat/miastoigminamorag2/Bogdan_Glowacz.JPG"
+    },
+    {
+        "numerNaLiscie" : "3",
+        "okregNr" : "2",
+        "miejscowosci" : "Miasto i Gmina Morąg",
+        "imie" : "Krystyna Barbara",
+        "nazwisko" : "Tolak",
+        "opis" : "Mężatka, troje dzieci, wykształcenie średnie. Działa w organizacjach pozarządowych na rzecz osób starszych, niepełnosprawnych oraz dzieci. Pełna radości i uśmiechu i życzliwości. Hobby : podróże.",
+        "photoURL":"./assets/powiat/miastoigminamorag2/Barbara_Tolak.JPG"
+    },
+    {
+        "numerNaLiscie" : "4",
+        "okregNr" : "2",
+        "miejscowosci" : "Miasto i Gmina Morąg",
+        "imie" : "Tomasz",
+        "nazwisko" : "Wasilewski",
+        "opis" : "Żonaty, dwoje dzieci, wykształcenie średnie. Rolnik ze wsi Jędrychówka, prowadzi nowoczesne 180 hektarowe gospodarstwo. Zapalony motocyklista, aktywny motocrossowiec.",
+        "photoURL":"./assets/powiat/miastoigminamorag2/Tomasz_Wasilewski.JPG"
+    },
+    {
+        "numerNaLiscie" : "5",
+        "okregNr" : "2",
+        "miejscowosci" : "Miasto i Gmina Morąg",
+        "imie" : "Agnieszka",
+        "nazwisko" : "Nalikowska",
+        "opis" : "mężatka, jedno dziecko, prowadzi własną działalność gospodarcza.  Uważa, że wyświadczone innym dobro powraca. \"Przecież mieszkam w Raju\". Hobby : dobra książka. ",
+        "photoURL":"./assets/powiat/miastoigminamorag2/Agnieszka_Nalikowska.JPG"
+    },
+    {
+        "numerNaLiscie" : "6",
+        "okregNr" : "2",
+        "miejscowosci" : "Miasto i Gmina Morąg",
+        "imie" : "Paweł",
+        "nazwisko" : "Kowalski",
+        "opis" : "Żonaty, jedno dziecko. Dla znajomych „Kowal”, morążanin od urodzenia. Z zawodu instalator Internetu. Z zamiłowania zapalony darter (rywalizuje w rzutkach do tarczy), majsterkowicz i żeglarz. Według niego po prostu ”nie ma, że się nie da zrobić”.",
+        "photoURL":"./assets/powiat/miastoigminamorag2/Pawel_Kowalski.JPG"
+    },
+    {
+        "numerNaLiscie" : "7",
+        "okregNr" : "2",
+        "miejscowosci" : "Miasto i Gmina Morąg",
+        "imie" : "Ewa",
+        "nazwisko" : "Wasiuk",
+        "opis" : "Mężatka, dwoje dzieci, wykształcenie średnie. Morążanka. Pracuje w handlu, osoba radosna, uśmiechnięta i życzliwa. Hobby: ogród, relaks, zwierzęta.",
+        "photoURL":"./assets/powiat/miastoigminamorag2/Ewa_Wasiuk.JPG"
+    }
+]
+

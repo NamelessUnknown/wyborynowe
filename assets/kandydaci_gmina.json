@@ -1,0 +1,83 @@
+[
+    {
+        "numerNaLiscie" : "",
+        "okregNr" : "1",
+        "miejscowosci" : "Jankowiec, Lesiak Ostródzki Ornowo, Ryńskie, Rudno, Pobórze, Smykowo, Brzydowo",
+        "imie" : "Paweł",
+        "nazwisko" : "Kaszuba",
+        "opis" : "30 lat, mieszkaniec Brzydowo. Młody, aktywny i wysportowany czynny członek OSP Brzydowo. Zawsze uśmiechnięty, pracowity i pozytywnie nastawiony do życia. Uwielbia jazdę na rowerze i pływanie.",
+        "photoURL":"./assets/gmina/Paweł_Kaszuba.JPG"
+    },
+    {
+        "numerNaLiscie" : "",
+        "okregNr" : "2",
+        "miejscowosci" : "Cibory, Dziadyk , Grabin, Grabinek, Kraplewo, Lichtajny, Pancerzyn, Prusowo, Durąg",
+        "imie" : "Marzena",
+        "nazwisko" : "Matuszka",
+        "opis" : "szczęśliwa mama i żona, mieszkanka Durąga. Od kilku lat współtworzy niezależne, lokalne media. Za ich pośrednictwem oraz prywatnie wspiera wiele społecznych inicjatyw i działań ludzi z gminy Ostróda oraz powiatu. Zdecydowała się startować w wyborach do Rady Gminy Ostróda, by w większym stopniu działać na rzecz lokalnej społeczności i pomagać mieszkańcom swej Małej Ojczyzny",
+        "photoURL":"./assets/gmina/Marzena_Matuszka.JPG"
+    },
+    {
+        "numerNaLiscie" : "",
+        "okregNr" : "6",
+        "miejscowosci" : "Lubajny, Nowe Siedlisko, Zwierzewo",
+        "imie" : "Irena",
+        "nazwisko" : "Głuszko",
+        "opis" : "52 lata, córka. Od urodzenia mieszkanka Zwierzewa . Z zawodu i zamiłowania - rolnik. Wraz z mężem prowadzi  gospodarstwo rolne i agroturystyczne.",
+        "photoURL":"./assets/gmina/Irena_Głuszko.JPG"
+    },
+    {
+        "numerNaLiscie" : "",
+        "okregNr" : "7",
+        "miejscowosci" : "Kątno, Stare Jabłonki, Szklarnia, Zawady Małe, Żurejny,  Buńki, Gąski, Jabłonka",
+        "imie" : "Aneta",
+        "nazwisko" : "Korowacka",
+        "opis" : "z wykształcenia socjolog, z wyboru mama Macieja, żona Krzysztofa,  z zamiłowania właścicielka psa oraz kota, mieszkanka Kątna. Lubi i rozumie ludzi, społecznik z natury.",
+        "photoURL":"./assets/gmina/Aneta_Korowacka.JPG"
+    },
+    {
+        "numerNaLiscie" : "",
+        "okregNr" : "8",
+        "miejscowosci" : "Ostrowin, Szyldak, Wyżnice",
+        "imie" : "Sylwia",
+        "nazwisko" : "Czubak",
+        "opis" : "38 lat, mężatka, jedno dziecko. Od 16 lat mieszka w Ostrowinie. Kandyduje do Rady Gminy, bo chce zająć się sprawami dotychczas lekceważonymi przez gminę. W pracy samorządu najważniejszy powinien być  człowiek.",
+        "photoURL":"./assets/gmina/Sylwia_Czubak.JPG"
+    },
+    {
+        "numerNaLiscie" : "",
+        "okregNr" : "9",
+        "miejscowosci" : "Samborowo, Czyżówka, Samborówko, Zabłocie",
+        "imie" : "Beata",
+        "nazwisko" : "Drozd",
+        "opis" : "41 lat, pochodzi z Ostródy, od 10 lat mieszka w Samborowie i nie wyobraża sobie mieszkać gdzieś indziej. Matka dwójki dorosłych dzieci. Jej praca zawodowa opiera się na dobrych kontaktach z ludźmi. Te kontakty bardzo ceni, bo czerpie z nich dobrą energię, by dalej przekazywać ją potrzebującym. \"Bycie potrzebnym mnie motywuje i nakręca.\" . Spełniła się jako matka, teraz ma więcej czasu dla innych.  ",
+        "photoURL":"./assets/gmina/Beata_Drozd.JPG"
+    },
+    {
+        "numerNaLiscie" : "",
+        "okregNr" : "13",
+        "miejscowosci" : "Pietrzwałd, Ryn, Naprom, Miejska Wola, Bednarki",
+        "imie" : "Jacek",
+        "nazwisko" : "Konkiel",
+        "opis" : "- żonaty, ojciec dwóch córek. Od dzieciństwa związany z rolnictwem. Sprawy wsi i rolnictwa zna \"od podszewki\".  Ma praktyczną wiedzę o potrzebach swego środowiska i gminy.",
+        "photoURL":"./assets/gmina/Jacek_Konkiel.JPG"
+    },
+    {
+        "numerNaLiscie" : "",
+        "okregNr" : "14",
+        "miejscowosci" : "Klonowo, Giętlewo, Glaznoty, Janowo, Nowy Folwark, Wólka Klonowska, Wygoda, Wysoka Wieś, Zajączki",
+        "imie" : "Angelina",
+        "nazwisko" : "Sadowska",
+        "opis" : "- mam 23 lata. Aktualnie mieszkam i pracuje w Ostródzie. Moje zainteresowania to sport , wolny czas również poświęcam rodzinie . Jestem osoba kreatywna z głowa pełna nowych pomysłów. Chętnie pomagam osobom , które potrzebują pomocy jak i wsparcia. ",
+        "photoURL":"./assets/gmina/Angelina_Sadowska.JPG"
+    },
+    {
+        "numerNaLiscie" : "",
+        "okregNr" : "15",
+        "miejscowosci" : "Czarny Róg, Czerwona Karczma, Międzylesie, Ruś Mała, Wałdowo, Warlity Wielkie",
+        "imie" : "Bartłomiej",
+        "nazwisko" : "Rasztęborski",
+        "opis" : "lat 28, mieszkaniec Wałdowa. Jego atutem jest młodość i ambicja zmian zgodnych z potrzebami współmieszkańców  i gminy.",
+        "photoURL":"./assets/gmina/Bartłomiej_Rasztęborski.JPG"
+    }
+]

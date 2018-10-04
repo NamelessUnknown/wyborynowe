@@ -1,0 +1,48 @@
+[
+    {
+        "numerNaLiscie" : "1",
+        "okregNr" : "4",
+        "miejscowosci" : "Grunwald, Dąbrówno, Miłomłyn",
+        "imie" : "Andrzej",
+        "nazwisko" : "Waszczyszyn",
+        "opis" : "Żonaty, dwójka dzieci, wykształcenie wyższe medyczne. Znany i lubiany stomatolog z Dąbrówna. Były przewodniczący Rady Powiatu IV kadencji, radny powiatu ostródzkiego od jego powstania w 1998 roku.  Społecznik, fan motoryzacji w szczególności motocykli, członek MotoClub „WELL”. Bezkompromisowy w stawianiu problemów ludzi i dążeniu do wyeliminowania negatywnych zjawisk w samorządzie.",
+        "photoURL":"./assets/powiat/milomlyngrunwalddabrowno4/Andrzej_Waszczyszyn.JPG"
+    },
+    {
+        "numerNaLiscie" : "2",
+        "okregNr" : "4",
+        "miejscowosci" : "Grunwald, Dąbrówno, Miłomłyn",
+        "imie" : "Franciszek",
+        "nazwisko" : "Brzozowski",
+        "opis" : "Kawaler, wykształcenie wyższe ( w trakcie doktoratu). Człowiek \"orkiestra\" - historyk, samorządowiec, nauczyciel, sportowiec, animator, trener, przewodnik. Zaangażowany w wiele projektów na terenie województwa warmińsko-mazurskiego. W każdej dziedzinie życia daje z siebie 100 procent. Pełen pasji i optymizmu.",
+        "photoURL":"./assets/powiat/milomlyngrunwalddabrowno4/Franciszek_Brzozowski.jpg"
+    },
+    {
+        "numerNaLiscie" : "3",
+        "okregNr" : "4",
+        "miejscowosci" : "Grunwald, Dąbrówno, Miłomłyn",
+        "imie" : "Jadwiga",
+        "nazwisko" : "Dymkowska",
+        "opis" : "Matka trójki dzieci, absolwentka Uniwersytetu Warszawskiego, kierunek geografia. Wieloletnia dyrektor szkoły podstawowej i gimnazjum w Stębarku, radna ostatniej kadencji w gminie Grunwald. Hobby: podróże i dobra literatura. ",
+        "photoURL":"./assets/powiat/milomlyngrunwalddabrowno4/Jadwiga_Dymkowska.JPG"
+    },
+    {
+        "numerNaLiscie" : "4",
+        "okregNr" : "4",
+        "miejscowosci" : "Grunwald, Dąbrówno, Miłomłyn",
+        "imie" : "Jan",
+        "nazwisko" : "Kic",
+        "opis" : "Żonaty, trójka dzieci. Wraz z żoną prowadzi gospodarstwo rolne w miejscowości Dębinka w gm. Miłomłyn. Delegat do Warmińsko-Mazurskiej Izby Rolniczej z powiatu ostródzkiego, drugą kadencję. Otwarty na sprawy ludzi.",
+        "photoURL":"./assets/powiat/milomlyngrunwalddabrowno4/Jan_Kic.JPG"
+    },
+    {
+        "numerNaLiscie" : "5",
+        "okregNr" : "4",
+        "miejscowosci" : "Grunwald, Dąbrówno, Miłomłyn",
+        "imie" : "Jadwiga",
+        "nazwisko" : "Jarzembowska",
+        "opis" : "Mężatka, jedno dziecko. Sołtys Elgnowa, gm. Dąbrówno, już czwartą kadencję. To świadczy o zaufaniu jakim cieszy się wśród mieszkańców wsi. Wraz z mężem i synem prowadzi gospodarstwo rolne. Lubi rower i spacery. ",
+        "photoURL":"./assets/powiat/milomlyngrunwalddabrowno4/Jadwiga_Jarzembowska.JPG"
+    }
+   
+]

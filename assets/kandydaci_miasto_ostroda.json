@@ -1,0 +1,83 @@
+[
+    {
+        "numerNaLiscie" : "1",
+        "okregNr" : "1",
+        "miejscowosci" : "Miasto Ostróda",
+        "imie" : "Włodzimierz",
+        "nazwisko" : "Brodiuk",
+        "opis" : "Żonaty, wykształcenie wyższe, doświadczony samorządowiec, starosta powiatu ostródzkiego w latach 2010 -2014 - za jego kadencji w powiecie dokonano największego w historii samorządu postępu inwestycyjnego, doskonale zna problemy miasta i powiatu. Ceni fachowość, szczerość i brak kunktatorstwa. Motto działania: jawność, bez układów i powiązań. I w zgodzie z tą dewizą ujawnia wszystkie zakulisowe działania samorządu. ",
+        "photoURL":"./assets/powiat/miastoostroda1/Włodzimierz_Brodiuk.JPG"
+    },
+    {
+        "numerNaLiscie" : "2",
+        "okregNr" : "1",
+        "miejscowosci" : "Miasto Ostróda",
+        "imie" : "Justyna",
+        "nazwisko" : "Maciak",
+        "opis" : "Mężatka, dwoje dzieci, wykształcenie wyższe, dyplomowana pielęgniarka, specjalistka w pielęgniarstwie chirurgicznym. Od wielu lat pracuje w ostródzkim szpitalu. \"Kocham to co robię i zawsze służę pomocą drugiemu człowiekowi.\" Nie zważa na konsekwencje i zawsze staje po stronie prawdy i uczciwości. Motto: człowiek jest największą wartością.  Hobby: góry i literatura.",
+        "photoURL":"./assets/powiat/miastoostroda1/Justyna_Maciak.JPG"
+    },
+    {
+        "numerNaLiscie" : "3",
+        "okregNr" : "1",
+        "miejscowosci" : "Miasto Ostróda",
+        "imie" : "Stanisław",
+        "nazwisko" : "Makowski",
+        "opis" : "Żonaty, jedno dziecko, wykształcenie średnie pedagogiczne, ma za sobą  31 lat służby w Wojsku Polskim. Od 1976 promuje honorowe krwiodawstwo, także swoim przykładem: oddał już ponad 20 litrów krwi. Kieruje działalnością PCK w Ostródzie, szkoli z zakresu pierwszej pomocy przedmedycznej.  Kto go zna wie, że lubi ludzi i pomaga im w potrzebie jak może. Jest zapalonym działkowiczem. Hobby: pierwsza pomoc i muzyka",
+        "photoURL":"./assets/powiat/miastoostroda1/Stanisław_Makowski.JPG"
+    },
+    {
+        "numerNaLiscie" : "4",
+        "okregNr" : "1",
+        "miejscowosci" : "Miasto Ostróda",
+        "imie" : "Grażyna",
+        "nazwisko" : "Kośman",
+        "opis" : "mężatka, dwoje dzieci i trzech wnuków. Z wykształcenia technik administracji. Rodowita Ostródzianka, całe życie zawodowe pracowała z ludźmi i dla ludzi. Po 37 latach pracy w Wydziale Komunikacji dziś skupia swoją uwagę na środowisku seniorów. Była tenisistka stołowa. Członek ostródzkiego KS „Sokół” oraz jego wierny kibic. Ceni: otwartość i  aktywność.",
+        "photoURL":"./assets/powiat/miastoostroda1/Grażyna_Kośman.JPG"
+    },
+    {
+        "numerNaLiscie" : "5",
+        "okregNr" : "1",
+        "miejscowosci" : "Miasto Ostróda",
+        "imie" : "Bogdan",
+        "nazwisko" : "Szewczyk",
+        "opis" : "Żonaty, dwoje dzieci, wykształcenie wyższe ekonomiczne. Ma bogate doświadczenie zawodowe na kierowniczych stanowiskach w instytucjach samorządowych.  Zastępca Burmistrza Ostródy w latach 1990-1994.  Hobby: finanse, rachunkowość i sport, zwłaszcza - jako były sportowiec - tenis ziemny.",
+        "photoURL":"./assets/powiat/miastoostroda1/Bogdan_Szewczyk.JPG"
+    },
+    {
+        "numerNaLiscie" : "6",
+        "okregNr" : "1",
+        "miejscowosci" : "Miasto Ostróda",
+        "imie" : "Wioletta",
+        "nazwisko" : "Malecka",
+        "opis" : "Mężatka, dwoje dzieci, wykształcenie wyższe pedagogiczne, nauczycielka matematyki. Zawodowo związana z Zespołem Szkół Zawodowych im. Stanisława Staszica i Centrum Kształcenia Ustawicznego. Szczególnie bliska jej sercu jest praca wolontariuszki w Stowarzyszeniu Uniwersytetu Trzeciego Wieku, w którym działa od 10 lat.  Ceni uczciwość szczerość i profesjonalizm. Hobby: fotografia, muzyka, informatyka. Lubi: pomarzyć.",
+        "photoURL":"./assets/powiat/miastoostroda1/Wioletta_Malecka.JPG"
+    },
+    {
+        "numerNaLiscie" : "7",
+        "okregNr" : "1",
+        "miejscowosci" : "Miasto Ostróda",
+        "imie" : "Zbigniew",
+        "nazwisko" : "Mordziński",
+        "opis" : "Dwie córki, mgr pedagogiki resocjalizacyjnej, emerytowany oficer straży pożarnej, aktualnie oficer Terytorialnej Służby Wojskowej. Jest także instruktorem płetwonurkowania, ratownikiem WOPR i myśliwym. Przez lata czuwał zawodowo nad bezpieczeństwem ludzi, od lat zajmuje się szkoleniami w tym zakresie. ",
+        "photoURL":"./assets/powiat/miastoostroda1/Zbigniew_Mordziński.JPG"
+    },
+    {
+        "numerNaLiscie" : "8",
+        "okregNr" : "1",
+        "miejscowosci" : "Miasto Ostróda",
+        "imie" : "Anna",
+        "nazwisko" : "Gwara",
+        "opis" : "Dwoje dzieci, wykształcenie wyższe ekonomiczne. Długoletni pracownik samorządowy na wielu stanowiskach m.in. jako Rzecznik Konsumentów oraz Naczelnik Wydziału Organizacyjnego i Spraw Obywatelskich. Zawsze życzliwa dla ludzi, chce nadal wykorzystywać swoją wiedzę i doświadczenia w pracy samorządowej. Lubi: muzykę i kontakt z przyrodą. Uwielbia: dzieci, a zwłaszcza swoje wnuki.",
+        "photoURL":"./assets/powiat/miastoostroda1/Anna_Gwara.JPG"
+    },
+    {
+        "numerNaLiscie" : "9",
+        "okregNr" : "1",
+        "miejscowosci" : "Miasto Ostróda",
+        "imie" : "Tomasz",
+        "nazwisko" : "Kowalewski",
+        "opis" : "Żonaty, dwoje dzieci, wykształcenie wyższe, major rez. WP, 28 lat służby. . Były sekretarz starostwa ostródzkiego III i IV kadencji. Doskonały organizator.  Hobby: sport, natura, żeglarstwo. Członek Zarządu Klubu Żeglarskiego LOK. Lubi: polowania i gotowanie.",
+        "photoURL":"./assets/powiat/miastoostroda1/Tomasz_Kowalewski.JPG"
+    }
+]

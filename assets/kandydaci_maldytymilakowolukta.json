@@ -1,0 +1,56 @@
+[
+    {
+        "numerNaLiscie" : "1",
+        "okregNr" : "5",
+        "miejscowosci" : "Małdyty, Miłakowo, Łukta",
+        "imie" : "Mieczysław",
+        "nazwisko" : "Piaścik",
+        "opis" : "żonaty, czworo dzieci, rzemieślnik. Od lat prowadzi zakład stolarski w Małdytach, były wiceprzewodniczący Rady Powiatu ostródzkiego IV kadencji. Człowiek \"dusza\", wyczulony na problemy drugiego człowieka i zawsze gotów pomóc.",
+        "photoURL":"./assets/powiat/luktamaldytymilakowo5/Mieczyslaw_Piascik.JPG"
+    },
+    {
+        "numerNaLiscie" : "2",
+        "okregNr" : "5",
+        "miejscowosci" : "Małdyty, Miłakowo, Łukta",
+        "imie" : "Bogdan",
+        "nazwisko" : "Purzycki",
+        "opis" : "Żonaty, córka Olga. Wykształcenie wyższe - AWF. Długoletni nauczyciel i dyrektor szkoły w Łukcie, doświadczony samorządowiec – przewodniczący Rady Powiatu Ostródzkiego III kadencji. Społecznik z zamiłowania. Reaguje na każdą niesprawiedliwość. Hobby: sport i kontakt z przyrodą.",
+        "photoURL":"./assets/powiat/luktamaldytymilakowo5/Bogdan_Purzycki.JPG"
+    },
+    {
+        "numerNaLiscie" : "3",
+        "okregNr" : "5",
+        "miejscowosci" : "Małdyty, Miłakowo, Łukta",
+        "imie" : "Wojciech",
+        "nazwisko" : "Ziembiński",
+        "opis" : "Żonaty, dwoje dzieci, lubi sport, podróże i wędkowanie. Wykształcenie wyższe pedagogiczne. Były dyrektor Specjalnego Ośrodka Szkolno-Wychowawczego w Miłakowie. Ma dobry kontakt z ludźmi i na co dzień służy im pomocą. ",
+        "photoURL":"./assets/powiat/luktamaldytymilakowo5/Wojciech_Ziębiński.JPG"
+    },
+    {
+        "numerNaLiscie" : "4",
+        "okregNr" : "5",
+        "miejscowosci" : "Małdyty, Miłakowo, Łukta",
+        "imie" : "Katarzyna",
+        "nazwisko" : "Dąbrowska",
+        "opis" : "Dwoje dzieci, wykształcenie wyższe pedagogiczne. Wychowawczyni Domu Dziecka w Szymonowie.  Oddana wychowankom. Lubi przyrodę, dom, dobrą książkę. Jeżeli wypoczywa to aktywnie. Uwielbia zwierzęta.",
+        "photoURL":"./assets/powiat/luktamaldytymilakowo5/Katarzyna_Dąbrowska.JPG"
+    },
+    {
+        "numerNaLiscie" : "5",
+        "okregNr" : "5",
+        "miejscowosci" : "Małdyty, Miłakowo, Łukta",
+        "imie" : "Ilona",
+        "nazwisko" : "Grabowska",
+        "opis" : "Matka 5-letniej córki. Wolontariuszka, przewodnik turystyczny po województwie. Kocha swój region. Pracuje w Fundacji Rozwoju Regionu  Łukta.",
+        "photoURL":"./assets/powiat/luktamaldytymilakowo5/Ilona_Grabowska.JPG"
+    },
+    {
+        "numerNaLiscie" : "6",
+        "okregNr" : "5",
+        "miejscowosci" : "Małdyty, Miłakowo, Łukta",
+        "imie" : "Danuta",
+        "nazwisko" : "Melnyk",
+        "opis" : "Matka rocznego synka. Mediator rodzinny. Potrafi słuchać, rozumieć i łagodzić swary. Uważa, ze dobro przeważa w każdym człowieku. Pracuje w Miejskim Domu Kultury w Miłakowie. Muzyk. Pozytywnie nastawiona do życia i ludzi. ",
+        "photoURL":"./assets/powiat/luktamaldytymilakowo5/Danuta_Melnych.JPG"
+    }
+]
